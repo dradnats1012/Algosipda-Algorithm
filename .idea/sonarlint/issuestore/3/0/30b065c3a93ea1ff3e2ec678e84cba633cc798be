@@ -1,0 +1,44 @@
+
+™
+java:S1104
+"QMake nodes a static final constant or non-public and provide accessors if needed.(øíÓˆÿÿÿÿÿ8ÆÄ‚éÚ2J$3d9acfb1-d0cc-443a-8cfa-17aa2eb72b55
+œ
+java:S1104"TMake distance a static final constant or non-public and provide accessors if needed.(Ç…Ş÷ùÿÿÿÿ8ÆÄ‚éÚ2J$48990cbd-4508-4bd7-afc9-36f42a602194
+‘
+java:S1104"NMake xs a static final constant or non-public and provide accessors if needed.(âªñ‚8ÆÄ‚éÚ2J$a71517ba-4763-4891-a2b3-07bb0ba471a2
+‘
+java:S1104"NMake ys a static final constant or non-public and provide accessors if needed.(âªñ‚8ÇÄ‚éÚ2J$caef4e84-93d0-4327-bebe-a443911fc622
+‘
+java:S1104"NMake xe a static final constant or non-public and provide accessors if needed.(âªñ‚8ÇÄ‚éÚ2J$0f6dbb2f-7e2d-4937-90db-e7d915a38192
+‘
+java:S1104"NMake ye a static final constant or non-public and provide accessors if needed.(âªñ‚8ÇÄ‚éÚ2J$f3ef0446-d988-49a4-9f42-56ae2c924ea1
+—
+java:S1104"OMake INF a static final constant or non-public and provide accessors if needed.(¤ÈõŠùÿÿÿÿ8ÇÄ‚éÚ2J$74d1c5ef-703e-4f9c-ab8d-ee8c2ff2cd19
+s
+java:S1444
+"+Make this "public static nodes" field final(øíÓˆÿÿÿÿÿ8ÇÄ‚éÚ2J$fd904b82-1fa7-4dab-a91d-7bbb53712cdb
+v
+java:S1444".Make this "public static distance" field final(Ç…Ş÷ùÿÿÿÿ8ÇÄ‚éÚ2J$2738c91f-5361-4484-a8ae-57ea13ad4bd9
+k
+java:S1444"(Make this "public static xs" field final(âªñ‚8ÇÄ‚éÚ2J$5b448e26-5f48-49da-9748-62945be9819b
+k
+java:S1444"(Make this "public static ys" field final(âªñ‚8ÇÄ‚éÚ2J$ed8b5f2c-6e9b-48e9-b73f-0eb768d363ea
+k
+java:S1444"(Make this "public static xe" field final(âªñ‚8ÇÄ‚éÚ2J$f29e1aec-b2ad-410b-82e9-f5fd1e16b410
+k
+java:S1444"(Make this "public static ye" field final(âªñ‚8ÇÄ‚éÚ2J$6ac5018f-87e8-430e-98b2-014d52b23a2d
+q
+java:S1444")Make this "public static INF" field final(¤ÈõŠùÿÿÿÿ8ÇÄ‚éÚ2J$713d7740-8068-4bc2-8b0f-13deba46cd5b
+ˆ
+java:S2184-"@Cast one of the operands of this addition operation to a "long".(Ì¸ô¢üÿÿÿÿ8ÊÄ‚éÚ2J$7aee767d-28d3-45d2-a64d-996c01986d4e
+ˆ
+java:S2184:"@Cast one of the operands of this addition operation to a "long".(°ÜÅÿùÿÿÿÿ8ÊÄ‚éÚ2J$9ee19bbb-962b-445b-85da-aa2d42f09c37
+–
+java:S3008"NRename this field "INF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ÈõŠùÿÿÿÿ8´Å‚éÚ2J$3dc0f928-704c-43a1-b134-567a24343d26
+‚
+java:S1659"?Declare "ys" and all following declarations on a separate line.(âªñ‚8µÅ‚éÚ2J$b65626ed-63d0-4475-b763-5aec5f523a38
+c
+java:S2386" Make member "nodes" "protected".(ÑÙ°8¹Å‚éÚ2J$0ece68ff-e356-4039-95d3-78fb5d766df3
+e
+java:S2386"#Make member "distance" "protected".(À´v8¹Å‚éÚ2J$49d29e5e-c705-496f-b5dc-0e37af032d04
+r	java:S106F"+Replace this use of System.out by a logger.(Áå’éûÿÿÿÿ8¼Å‚éÚ2J$552ac51b-be32-4600-aef8-6dbff33161ea

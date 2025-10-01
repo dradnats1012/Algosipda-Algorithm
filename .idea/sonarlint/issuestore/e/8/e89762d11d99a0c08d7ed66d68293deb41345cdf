@@ -1,0 +1,10 @@
+
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»μ£‹8ζρά›2J$288e5f77-ebc5-4f4e-973e-05996bfbbadf
+|
+java:S1854"9Remove this useless assignment to local variable "where".(ΞκΚ8μρά›2J$b22614ea-b48d-4aeb-9140-e90f7bbaf01d
+|
+java:S1854"9Remove this useless assignment to local variable "count".(±ÒΒƒ8μρά›2J$343426b8-a3aa-4725-9d7e-ec3a597e9f83
+m
+java:S1481"*Remove this unused "count" local variable.(±ÒΒƒ8ορά›2J$8ec727ee-5188-48f6-887e-0e715e3846d0
+m
+java:S1481"*Remove this unused "where" local variable.(ΞκΚ8ορά›2J$5926fa89-3a99-4c8b-b55f-ba414208e6da

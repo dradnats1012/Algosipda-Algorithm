@@ -1,0 +1,10 @@
+
+r
+java:S10667"/Merge this if statement with the enclosing one.(¸åì¬8¨ÍÂõÅ2J$5d084b71-47f6-4f07-88e9-6818e08dfe97
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¹÷8©ÍÂõÅ2J$778b44a1-b85a-491a-843e-70af45e3a178
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂšŸüÿÿÿÿ8©ÍÂõÅ2J$42a09ad5-b993-4a1e-8ed2-84031514d6cc
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¯•Œşÿÿÿÿ8©ÍÂõÅ2J$b19b7980-656d-4401-b36f-5fcb1f8a7303
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(œû¿Ø8âÎÂõÅ2J$6a57537a-a6f1-4cfd-9a30-bcae0cc8cf79
+r	java:S106F"+Replace this use of System.out by a logger.(¾ùê¤üÿÿÿÿ8èÎÂõÅ2J$bc8f9d53-d40a-4044-9b58-3675441fbd18
+r	java:S106M"+Replace this use of System.out by a logger.(³ğ¸ûÿÿÿÿ8èÎÂõÅ2J$ceac5657-8db3-4a94-bc93-a2e40642c5f9

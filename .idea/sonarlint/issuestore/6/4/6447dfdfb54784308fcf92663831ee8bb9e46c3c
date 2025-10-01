@@ -1,0 +1,8 @@
+
+’
+java:S1104	"OMake arr a static final constant or non-public and provide accessors if needed.(ôÄáÁ8ó¤›ÅØ2J$6e9cc9b3-88c6-408d-986f-e780650b951d
+l
+java:S1444	")Make this "public static arr" field final(ôÄáÁ8ô¤›ÅØ2J$2513d3f3-696a-4ce6-b9e4-13437ee81496
+a
+java:S2386"Make member "arr" "protected".(ĞÏˆ×8‡¥›ÅØ2J$2e65be17-e361-4f15-9789-cc8785c442eb
+r	java:S106"+Replace this use of System.out by a logger.(åö¡½úÿÿÿÿ8‰¥›ÅØ2J$42837337-2644-489d-af7c-6708bdeee9e4

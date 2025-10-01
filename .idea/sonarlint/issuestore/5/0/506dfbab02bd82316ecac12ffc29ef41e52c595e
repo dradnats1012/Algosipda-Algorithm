@@ -1,0 +1,39 @@
+
+•
+java:S1104"MMake N a static final constant or non-public and provide accessors if needed.(¿êİøÿÿÿÿ8ğû©ÈÏ2J$95ac5827-2189-409e-a77f-ba826914f89c
+•
+java:S1104"MMake M a static final constant or non-public and provide accessors if needed.(¿êİøÿÿÿÿ8ğû©ÈÏ2J$d3a2847a-f2f9-4b48-8057-be4e239c0bbb
+™
+java:S1104"QMake graph a static final constant or non-public and provide accessors if needed.(Ã‘¥Ûÿÿÿÿÿ8ğû©ÈÏ2J$2a7ebe73-b99d-437b-84d7-eecf071112dc
+›
+java:S1104	"SMake visited a static final constant or non-public and provide accessors if needed.(Ñ£Äúÿÿÿÿ8ğû©ÈÏ2J$0652104e-38dc-4603-929f-7b49fcaf56d9
+•
+java:S1104
+"MMake d a static final constant or non-public and provide accessors if needed.(Â”ùªıÿÿÿÿ8ğû©ÈÏ2J$a240a7db-946b-4dbe-ba4c-95fe2786f325
+o
+java:S1444"'Make this "public static N" field final(¿êİøÿÿÿÿ8ğû©ÈÏ2J$3bb9c437-71c7-4104-b28c-d60312ca7d72
+o
+java:S1444"'Make this "public static M" field final(¿êİøÿÿÿÿ8ğû©ÈÏ2J$fa96c7db-a297-451c-8e77-b72ad497e89e
+s
+java:S1444"+Make this "public static graph" field final(Ã‘¥Ûÿÿÿÿÿ8ğû©ÈÏ2J$a8357377-9ac8-479a-955b-9a87fc543983
+u
+java:S1444	"-Make this "public static visited" field final(Ñ£Äúÿÿÿÿ8ğû©ÈÏ2J$b5a6da19-0fee-4268-8fe4-ab7cc65dde91
+o
+java:S1444
+"'Make this "public static d" field final(Â”ùªıÿÿÿÿ8ğû©ÈÏ2J$0512e11f-2787-4e33-9c8c-5bc0a5f64dd2
+”
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿êİøÿÿÿÿ8ªü©ÈÏ2J$3dbe3910-6905-4058-9bc8-888f76ce4fd8
+”
+java:S3008"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿êİøÿÿÿÿ8ªü©ÈÏ2J$c8024d96-fae7-4ab9-b075-c2862714f7cf
+g
+java:S1659"Declare "M" on a separate line.(¿êİøÿÿÿÿ8«ü©ÈÏ2J$3b550796-0221-40b3-bc01-87f12417181d
+e
+java:S2386"Make this member "protected".(Ã‘¥Ûÿÿÿÿÿ8®ü©ÈÏ2J$8bc04ee2-d4ff-41dd-aefc-37f0cb4158dd
+e
+java:S2386
+"Make this member "protected".(Â”ùªıÿÿÿÿ8®ü©ÈÏ2J$dc59ff71-ea6e-413d-afc5-2fb7c1f4acf2
+d
+java:S2386""Make member "visited" "protected".(ÁÅ†8µü©ÈÏ2J$5c4b0f32-0e13-44a4-b8a9-e16b6e78caaa
+r	java:S106'"+Replace this use of System.out by a logger.(·şâµúÿÿÿÿ8¸ü©ÈÏ2J$b2b5ec40-001d-4785-b33f-5998f52cd700
+¡
+java:S1210O"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(Ë¶œûûÿÿÿÿ8½ü©ÈÏ2J$06dd0576-3927-4523-8ab3-6f8b2b1661fa
